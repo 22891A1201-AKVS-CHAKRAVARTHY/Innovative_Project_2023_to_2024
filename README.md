@@ -51,4 +51,4 @@ Lastly, you need to specify the recipient's list in the `Contact_List.py` module
 
 That's it! You're now ready to explore and run our project. If you encounter any issues or need further assistance, don't hesitate to reach out.
 
-Happy coding!
+Happy coding 😉!
