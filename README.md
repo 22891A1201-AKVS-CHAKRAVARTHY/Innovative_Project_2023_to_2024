@@ -52,4 +52,5 @@ Lastly, you need to specify the recipient's list in the `Contact_List.py` module
 That's it! You're now ready to explore and run our project. If you encounter any issues or need further assistance, don't hesitate to reach out.
 
 For our program demonstration video, please visit [Program Demo](https://www.dropbox.com/scl/fi/kiij2mxaq2m98vpvxuctp/Program-Execution.mp4?rlkey=63aoz2e4gplhaag3y8j7f44fi&dl=0)
+<br>
 Happy coding 😉!
